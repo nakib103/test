@@ -1,3 +1,12 @@
+[project]
+name = "test_package_nakib103"
+version = "0.0.1"
+authors = [
+  { name="Syed Nakib Hossain", email="snhossain103@gmail.com" },
+]
+description = "An example package"
+
+
 [build-system]
 requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
