@@ -1,5 +1,5 @@
 [project]
-name = "test_package_nakib103"
+name = "package_1"
 version = "0.0.1"
 authors = [
   { name="Syed Nakib Hossain", email="snhossain103@gmail.com" },
